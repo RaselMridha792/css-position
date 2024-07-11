@@ -1,0 +1,34 @@
+.box{
+    border: 2px solid gray;
+}
+
+/* 
+relative: current position relative a koto tuku change hobe. and will not leave the current position. se tar nijer jayga charena */
+/* 
+.first-img{
+    position: relative;
+    left: 500px;
+    top: 200px;
+} */
+/* absolute: will lose it's own position and will move based on the root/ whole websites */
+
+/* .second-img{
+    position: absolute;
+    top: 100px;
+} */
+.dumy{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+/* .box1{
+    position: sticky;
+    top: 0px;
+} */
+
+.box1{
+    position: fixed;
+    top: 200px;
+    left: 50px;
+
+}
